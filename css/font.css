@@ -1,0 +1,42 @@
+*{
+  padding:0px;
+  margin:0px;
+  }
+.con{
+	 width:50%;
+	 margin:0 auto;
+	 background:rgba(60,60,60);
+	 padding:30px 20px;
+	 }
+.h1{
+	font-size:30px;
+	font-weight:300;
+	cocor:rgba(255,253,245);
+	}
+span.hone{
+	display:block;
+	}
+h3{
+    font-size:18px;
+	font-weight:300px;
+	color:rgba(97,111,115);
+	margin-bottom:20px;
+	}
+h3 span{
+	display:block;
+	}
+
+p{
+	color:rgba(255,253,245);
+	font-size:14px;
+	line-height:27px;
+	display:block;
+	margin-bottom:15px;
+	}
+.small{
+	font-size:12px;
+	}
+a{
+	text-decoration:none;
+	color:rgba(255.50.67);
+	}
